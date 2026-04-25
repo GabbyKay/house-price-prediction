@@ -42,7 +42,7 @@ The model performed strongly, house size alone explained 96% of the variation in
 
 A simple model is not an old model, it's the right model for the right problem. For this project, house size alone gave a strong baseline, and linear regression made the result fully explainable. The remaining 4% error shows that other features like location, condition, and number of rooms would likely improve the model further.
 
-In regulated or client-facing contexts (like Deloitte's Risk Advisory or a real estate valuation), interpretability often matters more than raw accuracy. A CFO or estate agent needs "each square foot adds £165" — not a prediction from 500 decision trees they can't explain.
+In regulated or client-facing contexts (like Deloitte's Risk Advisory or a real estate valuation), interpretability often matters more than raw accuracy. A CFO or estate agent needs "each square foot adds £165", not a prediction from 500 decision trees they can't explain.
 
 ## Tech Stack
 
